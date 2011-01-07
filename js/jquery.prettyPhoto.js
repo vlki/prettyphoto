@@ -2,11 +2,11 @@
 	Class: prettyPhoto
 	Use: Lightbox clone for jQuery
 	Author: Stephane Caron (http://www.no-margin-for-errors.com)
-	Version: 3.0.2
+	Version: 4.0
 ------------------------------------------------------------------------- */
 
 (function($) {
-	$.prettyPhoto = {version: '3.0.2'};
+	$.prettyPhoto = {version: '4.0'};
 	
 	$.fn.prettyPhoto = function(pp_settings) {
 		pp_settings = jQuery.extend({
